@@ -1,5 +1,5 @@
 {
-  "name": "dl/yag",
+  "name": "dlsk/yag",
   "type": "typo3-cms-extension",
   "description": "Scalable, powerful, easy-to-manage Gallery Extension for TYPO3",
   "keywords": [
@@ -17,9 +17,9 @@
     "GPL-2.0+"
   ],
   "require": {
-    "typo3/cms-core": ">=7.6.0,<8.0",
-    "punktde/pt_extbase": "~2.3.0",
-    "punktde/pt_extlist": "~2.4.0"
+    "typo3/cms-core": ">=8.0",
+    "punktde/pt_extbase": "dev-t3_8",
+    "punktde/pt_extlist": "dev-t3_8"
   },
   "require-dev": {
     "mikey179/vfsStream": "1.4.*@dev",
